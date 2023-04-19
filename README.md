@@ -3,4 +3,4 @@ This repo is used to demonstrate the use of different queries made available by 
 
 To use the library, simply add it to your as a dependency in your main project pom.xml.
 
-Consequently, you can inject the dependency in your corresponding service class.
+Consequently, you can inject the dependency in your corresponding service class. (see demo folder)
